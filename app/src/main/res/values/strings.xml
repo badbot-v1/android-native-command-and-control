@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Bad Bot Remote</string>
+    <string name="title_home">Home</string>
+    <string name="title_teleop">Teleop</string>
+    <string name="title_settings">Settings</string>
+    <string name="home_op_mode">Current Operation Mode:</string>
+    <string name="home_src_stream">Source Stream</string>
+    <string name="home_app_stream">Output Stream</string>
+    <string name="home_lidar">Lidar Status</string>
+    <string name="home_lidar_recording_status">Lidar Recording</string>
+    <string name="home_button_teleop">Teleop</string>
+    <string name="home_button_follower">Follow</string>
+    <string name="home_button_auto">Auto</string>
+    <string name="home_button_on">On</string>
+    <string name="home_button_off">Off</string>
+    <string name="home_title_toggle">Toggle</string>
+    <string name="settings_host_local">laptop</string>
+    <string name="settings_host_nanogl">RCU</string>
+    <string name="settings_button_connect">Connect</string>
+    <string name="home_switch_app_video_stream">App Video Stream</string>
+    <string name="home_label_telemetry">Telemetry</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+</resources>
